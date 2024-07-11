@@ -36,15 +36,15 @@
 
 <details>	
   <summary><b>Social Dilemma</b></summary><br>
-<div align="center">
+<div>
   
 [![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/4899e2df2a3f1a5d388f6436db0059b3/raw/rb-linkedin.json)](https://www.linkedin.com/in/abdulsattar130322/)
 [![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/22ffb599db68f29237c43543b6016104/raw/rb-behance.json)](https://www.behance.net/abdulsattar130322)
 [![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/5014864231f6045feea2d85de68c6e06/raw/rb-twitter.json)](https://x.com/abdulsattar_17)
-[![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/9e8ae701031c85c83b1d85b6de850745/raw/rb-gfg.json)](https://www.geeksforgeeks.org/user/abdulsattar17/)<br>
-[![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/d8d66e82cba5f63d802615a10faa6ad4/raw/rb-qwiklabs.json)](https://www.cloudskillsboost.google/public_profiles/2f683381-c8a2-429f-8b0c-d64e10ba2b52)
-[![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/8a9dc71fa29900ce585566c88f2c49ad/raw/rb-quora.json)](https://www.quora.com/profile/MOHAMMED-ABDUL-SATTAR-KHAN-2)<br>
-[![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/0271c6b52cf9112891991d0c06e6999a/raw/rb-github.json)](https://github.com/AbdulSattar17)
+[![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/9e8ae701031c85c83b1d85b6de850745/raw/rb-gfg.json)](https://www.geeksforgeeks.org/user/abdulsattar17/)
+[![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/d8d66e82cba5f63d802615a10faa6ad4/raw/rb-qwiklabs.json)](https://www.cloudskillsboost.google/public_profiles/2f683381-c8a2-429f-8b0c-d64e10ba2b52)<br>
+[![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/8a9dc71fa29900ce585566c88f2c49ad/raw/rb-quora.json)](https://www.quora.com/profile/MOHAMMED-ABDUL-SATTAR-KHAN-2)
+[![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/0271c6b52cf9112891991d0c06e6999a/raw/rb-github.json)](https://github.com/AbdulSattar17)<br>
 [![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/b63c4bf218493fdef0059d5eb7d99e07/raw/rb-medium.json)](https://medium.com/@abdulsattar130322)
 [![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/0c38789d5ee493a224f702bdbb98bb7f/raw/rb-telegram.json)](https://t.me/AbdulSattar17)
 <br><br>
