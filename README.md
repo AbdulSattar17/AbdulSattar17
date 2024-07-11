@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed Abdul Sattar khan</h1>
 <h3 align="center">Advancing AI Innovations with Precision and Creativity</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3WNz1DTfMFUsYwBoME935G&ust=1720777098966000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNj8la_YnocDFQAAAAAdAAAAABAZ">
+<img align="right" alt="coding" width="400" src="https://magiccopy.xyz/assets/images/hadder.gif">
 
 - 👨‍💻 All of my projects are available at [https://github.com/AbdulSattar17](https://github.com/AbdulSattar17)
 
