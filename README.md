@@ -48,6 +48,6 @@
 [![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/b63c4bf218493fdef0059d5eb7d99e07/raw/rb-medium.json)](https://medium.com/@abdulsattar130322)
 [![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/0c38789d5ee493a224f702bdbb98bb7f/raw/rb-telegram.json)](https://t.me/AbdulSattar17)
 <br><br>
-<a href="https://github.com/rudrabarad/rudrabarad/issues/new"><img src="https://img.shields.io/badge/Query-Ask_Me_Anything-1DA1F2"/></a>
+<a href="https://github.com/AbdulSattar17/AbdulSattar17/issues/new"><img src="https://img.shields.io/badge/Query-Ask_Me_Anything-1DA1F2"/></a>
 </div>  
 </details>
