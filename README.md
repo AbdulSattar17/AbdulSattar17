@@ -6,13 +6,8 @@
 
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
 
-
-
-
  **Advancing AI Innovations** <img src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Developer.gif" width="30px"> with  **Precision and Creativity** <img src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Designer.gif" width="30px">, who is obsessed with the idea of improving himself and explore various things.
-
 <br>
-
 <img align="right" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif">
 
 - 📄 Know about my experiences [Resume](https://olive-ardra-24.tiiny.site)
@@ -49,11 +44,9 @@
 [![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/0c38789d5ee493a224f702bdbb98bb7f/raw/rb-telegram.json)](https://t.me/AbdulSattar17)<br>
 [![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/9e8ae701031c85c83b1d85b6de850745/raw/rb-gfg.json)](https://www.geeksforgeeks.org/user/abdulsattar17/)
 [![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/d8d66e82cba5f63d802615a10faa6ad4/raw/rb-qwiklabs.json)](https://www.cloudskillsboost.google/public_profiles/2f683381-c8a2-429f-8b0c-d64e10ba2b52)
-[![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/8a9dc71fa29900ce585566c88f2c49ad/raw/rb-quora.json)](https://www.quora.com/profile/Rudra-Barad)<br>
-[![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/f6bcdb44d74b10141992756ae2f10c37/raw/rb-strava.json)](https://www.strava.com/athletes/20643202)
-[![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/0f7d9a39bbee15a32d1182669b359dd1/raw/rb-instagram.json)](https://www.instagram.com/rudra.barad/)<br>
-[![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/0271c6b52cf9112891991d0c06e6999a/raw/rb-github.json)](https://github.com/rudrabarad)
-[![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/b63c4bf218493fdef0059d5eb7d99e07/raw/rb-medium.json)](https://medium.com/@rudra.barad)
+[![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/8a9dc71fa29900ce585566c88f2c49ad/raw/rb-quora.json)](https://www.quora.com/profile/MOHAMMED-ABDUL-SATTAR-KHAN-2)<br>
+[![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/0271c6b52cf9112891991d0c06e6999a/raw/rb-github.json)](https://github.com/AbdulSattar17)
+[![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/b63c4bf218493fdef0059d5eb7d99e07/raw/rb-medium.json)](https://medium.com/@abdulsattar130322)
 <br><br>
 <a href="https://github.com/rudrabarad/rudrabarad/issues/new"><img src="https://img.shields.io/badge/Query-Ask_Me_Anything-1DA1F2"/></a>
 </div>  
